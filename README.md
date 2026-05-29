@@ -7,9 +7,13 @@ I am a passionate developer focused on building scalable web applications, AI-po
 💻 Tech Stack
 
 🌐 Frontend: HTML, CSS, JavaScript, React
+
 🛠 Backend: Node.js, FastAPI, Python
+
 🗄 Database: MongoDB, PostgreSQL, Firebase
+
 🤖 AI/ML: TensorFlow, Scikit-learn, NLP, CNNs, Generative AI, RAG System, AI Agents
+
 ⚙ DevOps: Git, GitHub, Vercel, Docker (basic)
 
 
