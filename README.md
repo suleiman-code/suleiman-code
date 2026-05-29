@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Suleiman Ahmed
+🚀 Full Stack Developer | AI Enthusiast | Machine Learning Engineer
 
-<!--
-**suleiman-code/suleiman-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
+I am a passionate developer focused on building scalable web applications, AI-powered systems, and modern full-stack solutions. I enjoy solving real-world problems using code and continuously learning new technologies.
 
-Here are some ideas to get you started:
+Tech Stack
+🌐 Frontend: HTML, CSS, JavaScript, React
+🛠 Backend: Node.js, FastAPI, Python
+🗄 Database: MongoDB, PostgreSQL, Firebase
+🤖 AI/ML: TensorFlow, Scikit-learn, NLP, CNNs
+⚙ DevOps: Git, GitHub, Vercel, Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+📈 Goals
+Build scalable SaaS products
+Contribute to open source projects
+Master AI + Full Stack integration
+Launch my own tech startup
