@@ -29,8 +29,3 @@ Master AI + Full Stack integration
 
 Launch my own tech startup
 
-
-📫 Contact
-Email: your-email@example.com
-GitHub: https://github.com/suleiman-code
-Portfolio: https://your-domain.com
