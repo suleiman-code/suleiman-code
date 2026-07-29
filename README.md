@@ -30,3 +30,4 @@ Master AI + Full Stack integration
 Launch my own tech startup
 hello
 okay
+ko
