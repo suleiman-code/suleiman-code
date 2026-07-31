@@ -28,6 +28,6 @@ Contribute to open source projects
 Master AI + Full Stack integration
 
 Launch my own tech startup
-hello
+hello sir 
 okay
 ko
