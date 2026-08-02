@@ -8,7 +8,7 @@ I am a passionate developer focused on building scalable web applications, AI-po
 
 🌐 Frontend: HTML, CSS, JavaScript, React
 
-🛠 Backend: Node.js, FastAPI, Python
+🛠 Backend: Node.js, FastAPI, Python.
 
 🗄 Database: MongoDB, PostgreSQL, Firebase
 
