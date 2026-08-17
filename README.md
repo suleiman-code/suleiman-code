@@ -4,7 +4,7 @@ h66Hi, I'm Suleiman Ahmed
 🧠 About Me...
 I am a passionate developer focused on building scalable web applications, AI-powered systems, and modern full-stack solutions. I enjoy solving real-world problems using code and continuously learning new technologies.
 
-💻 Tech Stack..
+💻 Tech Stack....
 
 🌐 Frontend: HTML, CSS, JavaScript, React
 
